@@ -1,0 +1,7 @@
+Bussiness Problem :
+
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates, Each Hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal 
+hotel room use, consequently, Lowering cancellation rates is both hotels primary goal in order to increase their efficency in generating revenue, and for us to offer throrough bussiness advice
+to address this problem.
+
+The analysis of hotel booking cancellation as well as other factors that have no bearing of their bussiness and yearly revenue generation are the main topic of this report.
